@@ -1,20 +1,35 @@
-Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-===============================================================================================================================
+# Mathias Wahl
 
-I'm Mathias
----------------------
+Student at a technical high school specializing in information technology, with a strong interest in software development, scientific computing, and data-driven analysis.
 
-I'm a passionate student whose hobby is programming. I have a strong focus on Operating Systems, data science, and machine learning. I thrive on creating innovative solutions and contributing to open-source projects, constantly seeking to expand my skills and knowledge in the tech field.
+I mainly work on projects in Python and C/C++, often related to simulation, data processing, visualization, and Linux-based systems.
 
-I'm always eager to collaborate and learn from others in the tech community. Feel free to reach out to me for potential collaborations, discussions, or just to connect!
+## Technical Focus Areas
 
-<a href="https://www.github.com/WaMathias" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/WaMathias?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
+- Software development with Python and C/C++
+- Scientific computing and numerical analysis
+- Data analysis, visualization, and Monte Carlo methods
+- Linux, Docker, and technical infrastructure
+- Hardware-related projects with ESP32 and similar platforms
 
-### Socials
+## Selected Work and Projects
 
-<p align="left"> <a href="https://www.github.com/WaMathias" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+### BoneSimulation
+Evaluation of imaging data and simulation-related computation of mechanical properties using Python and CalculiX in the context of trabecular bone.
 
-### Badges
+### Analysis and Modeling Projects
+Development of Python-based approaches using historical, parametric, and Monte Carlo-based methods, as well as components for data acquisition and anomaly detection.
 
-<a href="https://github.com/WaMathias" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaMathias&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Linux and Server Infrastructure
+Planning, operation, and maintenance of a Linux-based environment with containerized services, monitoring, remote access, and low-level system troubleshooting.
+
+## Currently Interested In
+
+- Technical internships
+- Research-oriented projects
+- Challenging software and analysis tasks
+
+## Contact
+
+- GitHub: [@wamathias](https://github.com/wamathias)
+- Email: [E-Mail](Pfannenkuchen@gmx.de)
