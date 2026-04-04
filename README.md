@@ -1,4 +1,4 @@
-# Mathias Wahl
+# Mathias
 
 Student at a technical high school specializing in information technology, with a strong interest in software development, scientific computing, and data-driven analysis.
 
