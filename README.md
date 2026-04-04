@@ -2,9 +2,9 @@
 
 Student at a technical high school specializing in information technology, with a strong interest in software development, scientific computing, and data-driven analysis.
 
-I mainly work on projects in Python and C/C++, often related to simulation, data processing, visualization, and Linux-based systems.
+My work is mainly focused on Python and C/C++, often in contexts involving simulation, data processing, visualization, and Linux-based systems.
 
-## Technical Focus Areas
+## Focus Areas
 
 - Software development with Python and C/C++
 - Scientific computing and numerical analysis
@@ -15,21 +15,21 @@ I mainly work on projects in Python and C/C++, often related to simulation, data
 ## Selected Work and Projects
 
 ### BoneSimulation
-Evaluation of imaging data and simulation-related computation of mechanical properties using Python and CalculiX in the context of trabecular bone.
+Work related to image data evaluation and simulation-based computation of mechanical properties using Python and CalculiX in the context of trabecular bone.
 
 ### Analysis and Modeling Projects
-Development of Python-based approaches using historical, parametric, and Monte Carlo-based methods, as well as components for data acquisition and anomaly detection.
+Development of Python-based approaches using historical, parametric, and Monte Carlo methods, including components for automated data acquisition and anomaly detection.
 
 ### Linux and Server Infrastructure
-Planning, operation, and maintenance of a Linux-based environment with containerized services, monitoring, remote access, and low-level system troubleshooting.
+Planning, operating, and maintaining a Linux-based environment with containerized services, monitoring, remote access, and low-level system troubleshooting.
 
 ## Currently Interested In
 
 - Technical internships
 - Research-oriented projects
-- Challenging software and analysis tasks
+- Challenging software and data analysis tasks
 
 ## Contact
 
 - GitHub: [@wamathias](https://github.com/wamathias)
-- Email: [E-Mail](Pfannenkuchen@gmx.de)
+- Email:  [E-Mail](Pfannenkuchen107@gmx.de)
