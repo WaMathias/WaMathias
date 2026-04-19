@@ -32,4 +32,4 @@ Planning, operating, and maintaining a Linux-based environment with containerize
 ## Contact
 
 - GitHub: [@wamathias](https://github.com/wamathias)
-- Email:  [E-Mail](Mathias-Wahl@gmx.net)
+- Email:  [E-Mail](mailto:Mathias-Wahl@gmx.net)
